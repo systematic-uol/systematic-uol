@@ -11,9 +11,9 @@ tags:
 ## Methods
 
 ## Interactive
-<div align="center">
-  <iframe src="../assets/networkInteractive1.html" style="border:none;" height="400" width="400" title="Interactive Similarity Plot"></iframe>
-</div>
+```
+[Launch interactive map](../assets/networkInteractive1.html)
+```
 
 ## Findings 
 
